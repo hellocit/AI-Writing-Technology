@@ -27,4 +27,4 @@
 * テクニカルライティング
 * https://asana.com/ja/resources/accuracy-vs-precision
 * トピックセンテンス
-#　結論　まともな日本語なしにまともな英語は書けない
+# 結論　まともな日本語なしにまともな英語は書けない
